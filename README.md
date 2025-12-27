@@ -9,6 +9,9 @@
 ---
 
 ## Giới thiệu
+
+![prim_simulation](https://github.com/user-attachments/assets/d001b5cd-192d-4bad-9305-b5e20a9f4467)
+
 **Kruskal and Prim Algorithm Simulation** là dự án mô phỏng trực quan hai thuật toán cây khung nhỏ nhất (Minimum Spanning Tree – MST):
 
 - Thuật toán **Prim**
@@ -45,9 +48,6 @@ Mục tiêu chính của dự án là **phục vụ học tập**, giúp ngườ
 ### Tùy chỉnh vị trí đỉnh
 - Kéo – thả các đỉnh bằng chuột
 - Lưu lại vị trí để tái sử dụng
-
-### Video
-![prim_simulation](https://github.com/user-attachments/assets/d001b5cd-192d-4bad-9305-b5e20a9f4467)
 
 ---
 
