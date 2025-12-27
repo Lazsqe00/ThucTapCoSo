@@ -1,0 +1,16 @@
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.csproj.GenerateResource.cache
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.AssemblyInfoInputs.cache
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.AssemblyInfo.cs
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.csproj.CoreCompileInputs.cache
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\bin\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.exe
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\bin\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.deps.json
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\bin\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.runtimeconfig.json
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\bin\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.dll
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\bin\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.pdb
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.dll
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\refint\Kruskal and Prim algorithm simulation.dll
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.pdb
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal and Prim algorithm simulation.genruntimeconfig.cache
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\ref\Kruskal and Prim algorithm simulation.dll
+D:\Thực tập cơ sở\Kruskal and Prim algorithm simulation\Kruskal and Prim algorithm simulation\obj\Debug\net8.0-windows\Kruskal_and_Prim_algorithm_simulation.InputGraph.resources
