@@ -117,7 +117,7 @@ namespace Kruskal_and_Prim_algorithm_simulation
             {
                 var pse = new System.Diagnostics.ProcessStartInfo
                 {
-                    FileName = @"C:\Users\ASUS\AppData\Local\Programs\Python\Python311\python.exe",
+                    FileName = "python",
                     Arguments = $"\"{edit_py}\"",
                     UseShellExecute = true,
                     CreateNoWindow = false,
@@ -126,7 +126,7 @@ namespace Kruskal_and_Prim_algorithm_simulation
 
                 var psi = new System.Diagnostics.ProcessStartInfo
                 {
-                    FileName = @"C:\Users\ASUS\AppData\Local\Programs\Python\Python311\python.exe",
+                    FileName = "python",
                     Arguments = $"\"{scriptPath}\"",
                     UseShellExecute = true,
                     CreateNoWindow = false,
@@ -141,9 +141,9 @@ namespace Kruskal_and_Prim_algorithm_simulation
                 string posJS = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "positions.json");
 
                 //delete
-                //if (File.Exists(graphJS)) File.Delete(graphJS);
+                if (File.Exists(graphJS)) File.Delete(graphJS);
 
-                //if (File.Exists(posJS)) File.Delete(posJS);
+                if (File.Exists(posJS)) File.Delete(posJS);
 
 
             }
