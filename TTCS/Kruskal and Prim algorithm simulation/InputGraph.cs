@@ -119,8 +119,9 @@ namespace Kruskal_and_Prim_algorithm_simulation
                 {
                     FileName = "python",
                     Arguments = $"\"{edit_py}\"",
-                    UseShellExecute = true,
+                    UseShellExecute = false,
                     CreateNoWindow = false,
+                    RedirectStandardError = true, //bat loi
                     WindowStyle = ProcessWindowStyle.Normal
                 };
 
@@ -128,8 +129,9 @@ namespace Kruskal_and_Prim_algorithm_simulation
                 {
                     FileName = "python",
                     Arguments = $"\"{scriptPath}\"",
-                    UseShellExecute = true,
+                    UseShellExecute = false,
                     CreateNoWindow = false,
+                    RedirectStandardError = true, //bat loi
                     WindowStyle = ProcessWindowStyle.Normal
                 };
                 var procEdit = System.Diagnostics.Process.Start(pse);
