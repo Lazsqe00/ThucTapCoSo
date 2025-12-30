@@ -19,7 +19,7 @@ bool cmp(edge a, edge b){
 }
 
 int find(int v){
-	return v == par[v] ? v : v = find(par[v]);
+	return v == par[v] ? v : par[v] = find(par[v]);
 }
 
 void init_DSU(){
